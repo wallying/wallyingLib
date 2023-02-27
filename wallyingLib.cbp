@@ -43,6 +43,9 @@
 		<Unit filename="check_sum.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="crc_compute.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="hexdump.c">
 			<Option compilerVar="CC" />
 		</Unit>
