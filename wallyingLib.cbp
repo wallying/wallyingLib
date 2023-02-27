@@ -37,7 +37,10 @@
 		<Unit filename="array_reverse.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="bit.c">
+		<Unit filename="bit_process.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="check_sum.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="hexdump.c">

@@ -24,3 +24,15 @@
 	<string.h>
 	<time.h>
 
+1677491317 source:e:\my_c\wallyinglib\bit_process.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
+1677496498 source:e:\my_c\wallyinglib\check_sum.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
