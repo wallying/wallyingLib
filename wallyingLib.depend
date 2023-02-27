@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1677488949 source:e:\my_c\wallyinglib\array_reverse.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
+1677490474 source:e:\my_c\wallyinglib\bit.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
+1677488476 source:e:\my_c\wallyinglib\hexdump.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
+1677487154 source:e:\my_c\wallyinglib\rand_number.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
