@@ -42,3 +42,92 @@
 	<stdlib.h>
 	<string.h>
 
+1677577905 source:e:\my_c\wallyinglib\mbedtls\aes.c
+	"common.h"
+	<string.h>
+	"aes.h"
+	"padlock.h"
+	"aesni.h"
+	<stdio.h>
+
+1677572872 e:\my_c\wallyinglib\mbedtls\common.h
+	<stddef.h>
+	<stdint.h>
+
+1677578020 e:\my_c\wallyinglib\mbedtls\aes.h
+	<stddef.h>
+	<stdint.h>
+	"aes_alt.h"
+
+1677573811 source:e:\my_c\wallyinglib\mbedtls\md5.c
+	"common.h"
+	"md5.h"
+	<string.h>
+	<stdio.h>
+
+1677572919 e:\my_c\wallyinglib\mbedtls\md5.h
+	<stddef.h>
+	<stdint.h>
+	"md5_alt.h"
+
+1677578676 source:e:\my_c\wallyinglib\mbedtls\hmac.c
+	"sha1.h"
+	"sha256.h"
+	"hmac.h"
+
+1677578408 e:\my_c\wallyinglib\mbedtls\sha1.h
+	<stddef.h>
+	<stdint.h>
+	"sha1_alt.h"
+
+1677578415 e:\my_c\wallyinglib\mbedtls\sha256.h
+	<stddef.h>
+	<stdint.h>
+	"sha256_alt.h"
+
+1653969784 e:\my_c\wallyinglib\mbedtls\hmac.h
+	<string.h>
+	<stddef.h>
+	<stdint.h>
+
+1677578697 source:e:\my_c\wallyinglib\mbedtls\sha1.c
+	"common.h"
+	"sha1.h"
+	<string.h>
+	<stdio.h>
+
+1677578710 source:e:\my_c\wallyinglib\mbedtls\sha256.c
+	"common.h"
+	"sha256.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<arm_neon.h>
+	<sys/auxv.h>
+	<signal.h>
+	<arm64_neon.h>
+	<Windows.h>
+	<processthreadsapi.h>
+	<signal.h>
+	<setjmp.h>
+
+1677578723 source:e:\my_c\wallyinglib\mbedtls\sha512.c
+	"common.h"
+	"sha512.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<arm_neon.h>
+	<sys/auxv.h>
+	<signal.h>
+	<arm64_neon.h>
+	<sys/types.h>
+	<sys/sysctl.h>
+	<signal.h>
+	<setjmp.h>
+
+1677578421 e:\my_c\wallyinglib\mbedtls\sha512.h
+	<stddef.h>
+	<stdint.h>
+	"sha512_alt.h"
+

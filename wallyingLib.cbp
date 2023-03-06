@@ -49,6 +49,31 @@
 		<Unit filename="hexdump.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="mbedtls/aes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mbedtls/aes.h" />
+		<Unit filename="mbedtls/common.h" />
+		<Unit filename="mbedtls/hmac.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mbedtls/hmac.h" />
+		<Unit filename="mbedtls/md5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mbedtls/md5.h" />
+		<Unit filename="mbedtls/sha1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mbedtls/sha1.h" />
+		<Unit filename="mbedtls/sha256.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mbedtls/sha256.h" />
+		<Unit filename="mbedtls/sha512.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mbedtls/sha512.h" />
 		<Unit filename="rand_number.c">
 			<Option compilerVar="CC" />
 		</Unit>
