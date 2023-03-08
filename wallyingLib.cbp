@@ -40,6 +40,10 @@
 		<Unit filename="bit_process.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="cJSON/cJSON.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cJSON/cJSON.h" />
 		<Unit filename="check_sum.c">
 			<Option compilerVar="CC" />
 		</Unit>
