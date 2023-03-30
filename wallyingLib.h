@@ -34,4 +34,10 @@ uint16_t crc16_compute(const uint8_t *p_data, uint16_t size, const uint16_t *p_c
 uint32_t crc32_compute(const uint8_t *p_data, uint32_t size, const uint32_t *p_crc);
 
 
+
+void key_register(char key, void (*dncbk)(char key), void (*upcbk)(char key));
+
+void key_unregister(char key);
+
+
 #endif /* __WALLYING_LIB_H__ */
