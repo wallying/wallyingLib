@@ -29,6 +29,8 @@ uint32_t check_sum16(const uint16_t *buf, uint32_t cnt);
 uint32_t check_sum32(const uint32_t *buf, uint32_t cnt);
 
 
+uint16_t crc16_compute(const uint8_t *p_data, uint16_t size, const uint16_t *p_crc);
+
 uint32_t crc32_compute(const uint8_t *p_data, uint32_t size, const uint32_t *p_crc);
 
 
